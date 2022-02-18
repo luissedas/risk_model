@@ -1,1 +1,1 @@
-*/10 * * * * cd /home/workspace && /data/bin/python fullprocess.py
+*/10 * * * * python fullprocess.py
