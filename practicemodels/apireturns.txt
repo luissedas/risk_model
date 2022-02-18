@@ -1,0 +1,12 @@
+[0 1 1 1 1]
+0.5714285714285715
+[['lastmonth_activity', 'mean', 76.6], ['lastmonth_activity', 'median', 34.0], ['lastmonth_activity', 'std', 96.13948200401332], ['lastyear_activity', 'mean', 3100.4], ['lastyear_activity', 'median', 675.0], ['lastyear_activity', 'std', 5232.801907200386], ['number_of_employees', 'mean', 227.2], ['number_of_employees', 'median', 25.0], ['number_of_employees', 'std', 433.7138457554704]]
+execution_time:[['ingestion.py', 0.3392197040011524], ['training.py', 0.7965519700010191]]
+missing_data;[['corporation', '0%'], ['lastmonth_activity', '0%'], ['lastyear_activity', '0%'], ['number_of_employees', '0%'], ['exited', '0%']]
+outdated_packages:Package        Version Latest Type
+-------------- ------- ------ -----
+prompt-toolkit 3.0.27  3.0.28 wheel
+PyQt5          5.12.3  5.15.6 wheel
+PyQt5_sip      4.19.18 12.9.1 wheel
+PyQtChart      5.12    5.15.5 wheel
+PyQtWebEngine  5.12.1  5.15.5 wheel
